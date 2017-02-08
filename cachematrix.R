@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Coursera R Programming Course from John Hopkins
+## Programming Assignment 2
+## Used together the following 2 functions calculate the inverse of a proper numeric square matrix
+## As matrix inversion is computationally expensive, if the inverse has already been calculated, a cached copy is returned
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
